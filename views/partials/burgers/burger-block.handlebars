@@ -1,10 +1,10 @@
-<li>
+<li class = "spacing">
 
 	{{#if devoured}}
 	{{id}}. {{burger_name}}
 	{{else}}
 	{{id}}. {{burger_name}}
-	<button class="devour-button" data-id="{{id}}" data-newDevour="{{devoured}}">
+	<button class="devour-button btn btn-light" type="button" data-id="{{id}}" data-newDevour="{{devoured}}">
 		Devour it!
 	</button>
 	{{/if}}
