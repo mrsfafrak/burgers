@@ -8,7 +8,7 @@ See the screenshot below to view the interface.
 
 **Be sure to run "npm install" in command line before attempting the following prompts.**
 
-###### Screen Shots:
+###### Screen Shot:
 
 ![Burger_view](/public/assets/img/burger.png)
 
